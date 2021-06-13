@@ -1,0 +1,42 @@
+git config --global user.name "Dileepcs2018"
+git config --global user.email "dileepcs.kumar2009@gmail.com"
+
+
+
+
+history
+    1  pwd
+    2  git clone https://github.com/Dileepcs2018/Selenium_Python.git
+    3  git status
+    4  git init
+    5  git ststus
+    6  git status
+    7  git config --global user.name "Dileepcs2018"
+    8  git config --global user.email "dileepcs.kumar2009@gmail.com"
+    9  git config --list
+   10  git add .
+   11  git commit -m "Commited to local repository"
+   12  git log
+   13  git push origin master
+   14  git push --rebase origin master
+   15  git pull --rebase origin master
+   16  git status
+   17  git remote add origin "https://github.com/Dileepcs2018/Selenium_Python"
+   18  git push origin master
+   19  git pull --rebase origin master
+   20  git push origin master
+   21  git status
+   22  git config --global user.email "dileepcs.kumar2009@gmail.com"
+   23  git config --global user.name "Dileepcs2018"
+   24  git clone https://github.com/Dileepcs2018/Test.git
+   25  git checkout master
+   26  git pull
+   27  git status
+   28  git init
+   29  ls -lart
+   30  git config --global user.email dileepcs.kumar2009@gmail.com
+   31  git config --global user.name Dileepcs2018
+   32  git config --global user.name
+   33  git config --global user.email
+   34  git status
+   35  history
